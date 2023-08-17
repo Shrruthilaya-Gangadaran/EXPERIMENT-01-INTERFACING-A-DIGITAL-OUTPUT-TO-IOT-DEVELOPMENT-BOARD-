@@ -105,13 +105,15 @@ void led()
 
 ## OUTPUT:
 ### LED OFF:
-<br>
+
 ![](output1.png)
+<br>
 </br>
 
 ### LED ON:
-<br>
+
 ![](output2.png) 
+<br>
 </br>
  
 ## RESULT:
