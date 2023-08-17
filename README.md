@@ -105,10 +105,14 @@ void led()
 
 ## OUTPUT:
 ### LED OFF:
+<br>
 ![](output1.png)
+</br>
+
 ### LED ON:
+<br>
 ![](output2.png) 
- 
+</br>
  
 ## RESULT:
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
