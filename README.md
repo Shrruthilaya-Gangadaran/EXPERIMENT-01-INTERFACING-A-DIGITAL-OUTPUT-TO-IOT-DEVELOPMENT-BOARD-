@@ -106,13 +106,15 @@ void led()
 ## OUTPUT:
 ### LED OFF:
 
-![](output1.png)
+![image](https://github.com/Shrruthilaya-Gangadaran/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/93427705/c7b182ff-8fd6-4c83-b346-07b56e464db8)
+
 <br>
 </br>
 
 ### LED ON:
 
-![](output2.png) 
+![image](https://github.com/Shrruthilaya-Gangadaran/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/93427705/62bab013-7b33-4945-9e10-7090cc7a5826)
+ 
 <br>
 </br>
  
